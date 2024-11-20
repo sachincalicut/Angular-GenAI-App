@@ -1,4 +1,5 @@
 
+
 ###
 
 <div align="left">
@@ -100,6 +101,14 @@ Here are the main project files that contain the application logic, I include co
     ---pop-model
     ---user
     ---model
+
+# Login
+
+Role base account are available for user, admin, test user 
+please refer to account access detail in db.json file to access this application.
+
+# Register
+Create an Account with multiple user 
 
 # Guard
 The auth guard is an angular route guard that's used to prevent unauthenticated or unauthorized users from accessing restricted routes, it does this by implementing the CanActivate interface which allows the guard to decide if a route can be activated with the canActivate() method. If the method returns true the route is activated (allowed to proceed), otherwise if the method returns false the route is blocked.
