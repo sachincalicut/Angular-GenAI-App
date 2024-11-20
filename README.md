@@ -15,7 +15,7 @@
 ###
 # Introduction
 
-# Project Name : Angular-GeminiAI
+# Project Name : Angular RBAC cum LLM App 
 
 # Prerequisites
 
