@@ -105,7 +105,8 @@ Here are the main project files that contain the application logic, I include co
 # Login
 
 Role base account are available for user, admin, test user 
-please refer to account access detail in db.json file to access this application.
+please refer to account access detail in db.json file to access this application. 
+please note currently generative ai is include for Admin access account only
 
 # Register
 Create an Account with multiple user 
